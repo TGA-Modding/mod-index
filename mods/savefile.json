@@ -1,0 +1,8 @@
+{
+    "name": "SaveFile",
+    "author": "reddust9",
+    "version": "1.0.0",
+    "indev": false,
+    "description": "Stores game data in a JSON file instead of playerprefs",
+    "repo": "https://github.com/TGA-Modding/TGA-SaveFile"
+}

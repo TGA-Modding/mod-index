@@ -3,6 +3,14 @@
         {
             "name": "TGAPI",
             "file": "api"
+        },
+        {
+            "name": "Save Files",
+            "file": "savefile"
+        },
+        {
+            "name": "The Glitched Companion",
+            "file": "multiplayer"
         }
     ]
 }
