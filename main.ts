@@ -1,7 +1,9 @@
 import express = require("express");
+import cors = require("cors")
 import fs = require("fs")
 
 const app = express()
+app.use(cors())
 
 function readModJson(name: string): object {
     return JSON.parse(fs.readFileSync("mods/" + name + ".json").toString())
