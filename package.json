@@ -7,7 +7,7 @@
   "author": "sbcomputertech <78689018+sbcomputertech@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "tsc && node main.js 9800"
+    "start": "tsc && node main.js"
   },
   "devDependencies": {
     "@types/express": "^4.17.15",

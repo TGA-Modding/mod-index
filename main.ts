@@ -17,5 +17,6 @@ app.get("/", (req, res) => {
 app.get("/mod/:fileid", (req, res) => {
     res.send(readModJson(req.params["fileid"]))
 })
-  
-app.listen(parseInt(process.argv[2]))
+
+console.log("loaded")
+app.listen(process.env.PORT || 3001)
