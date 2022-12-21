@@ -1,0 +1,8 @@
+{
+    "name": "TGAPI",
+    "author": "reddust9",
+    "version": "1.0.0",
+    "indev": true,
+    "description": "Modding API",
+    "repo": "https://github.com/TGA-Modding/TGAPI"
+}

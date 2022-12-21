@@ -1,0 +1,8 @@
+{
+    "mods": [
+        {
+            "name": "TGAPI",
+            "file": "api"
+        }
+    ]
+}
